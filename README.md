@@ -79,8 +79,11 @@ Percent  Overall Passing decreased from 90.4% to 87.2%.
 
 ## SUMMARY:
 
-•	Thomas High School overall passing percentage dropped from 91% to 65%
-•	Math and reading score grades dropped from 1635 to 1174 
+•	Thomas High School overall passing percentage dropped from 91% to 65%.
+
+•	Math and reading score grades dropped from 1635 to 1174. 
+
 •	Thomas High school is within their school spending budget of $630 - $644.
+
 •	Decreased values prove to show academic dishonesty within the high school. 
 
